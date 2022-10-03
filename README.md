@@ -1,16 +1,10 @@
-# nepali_calculator
+# Nepali Calculator
+  A concept of nepali calculator built in flutter, capable of carrying very basic calculation of mathematics.
+  
+  Though it is not completely polished for advance mathematical calculations, it is made responsive to every device.
 
-A new Flutter project.
+## Snaps
+![NepaliCalculator_Dark](https://user-images.githubusercontent.com/63596895/193556019-7f7039c1-bb29-4c5b-b828-23b68b8fc38c.jpg)
+![NepaliCalculator_Light](https://user-images.githubusercontent.com/63596895/193556024-49efdad9-e953-4f76-afb2-a11a8b03e6d6.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
