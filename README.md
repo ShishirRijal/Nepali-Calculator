@@ -29,6 +29,6 @@ The app features both light and dark mode. User is free to choose any theme he/s
 	provider
 	
 ## Download App
-	Playstore link -> 
+	Android link ->  https://drive.google.com/file/d/1e9py70caO_zTuJRfy8qqids66bx3xrW1/view?usp=sharing
 	AppStore link -> Oops! I'm not so damn rich to pay $100 per annum. Sorry:(
 
